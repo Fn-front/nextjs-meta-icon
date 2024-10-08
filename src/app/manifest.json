@@ -1,11 +1,11 @@
 {
-  "name": "Next.js App",
-  "short_name": "Next.js App",
+  "name": "Next.js Touch Icon App",
+  "short_name": "Next.js Touch Icon  App",
   "description": "Next.js App",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#fff",
-  "theme_color": "#fff",
+  "background_color": "#CCCCCC",
+  "theme_color": "#CCCCCC",
   "icons": [
     { "src": "/icon-192x192.png", "type": "image/png", "sizes": "192x192" }
   ]
